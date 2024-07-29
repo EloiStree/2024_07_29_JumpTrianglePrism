@@ -1,0 +1,20 @@
+{
+    "name": "be.eloistree.triangleprismjumper",
+    "version": "0.0.1",
+    "displayName": "Prism Jumper",
+    "description": "Some rig triangle prims to allows jumping with car in Unity3D",
+    "unity": "2019.1",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {},
+   "keywords": [
+      "unity",
+      "toolbox"
+    ],
+    "author": {
+      "name": "Eloi Stree",
+      "email": "streeeloi@gmail.com",
+      "url": "https://github.com/EloiStree"
+    }
+  }
