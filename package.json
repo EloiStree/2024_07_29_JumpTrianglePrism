@@ -23,7 +23,7 @@
       {
         "displayName": "How to use",
         "description": "Demo how to use the tool.",
-        "path": "Scene/DemoWithPrefab/DemoWithPrefab.unity"
+        "path": "Scene/DemoWithPrefab"
       }
     ]
   }
