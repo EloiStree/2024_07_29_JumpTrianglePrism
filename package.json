@@ -12,9 +12,18 @@
       "unity",
       "toolbox"
     ],
+
     "author": {
       "name": "Eloi Stree",
       "email": "streeeloi@gmail.com",
       "url": "https://github.com/EloiStree"
     }
+    ,
+    "samples": [
+      {
+        "displayName": "How to use",
+        "description": "Demo how to use the tool.",
+        "path": "Scene/DemoWithPrefab"
+      }
+    ]
   }
