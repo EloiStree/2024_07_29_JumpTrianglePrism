@@ -12,13 +12,6 @@
       "unity",
       "toolbox"
     ],     
- "samples": [
-    {
-      "displayName": "Demo Scene",
-      "description": "A sample scene that demonstrates the features of this package.",
-      "path": "Scene/Demo"
-    }
-  ],
   "author": {
     "name": "Eloi Stree",
     "mail": "",
